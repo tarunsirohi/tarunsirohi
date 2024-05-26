@@ -6,11 +6,11 @@
 
 - I’m currently learning **Spring Boot.**
 
-- Ask me about **Ask me about C, Java, Python, HTML, CSS, JavaScript, Data Structures and Algorithms (DSA), SQL.**
+- Ask me about **C, Java, Python, HTML, CSS, JavaScript, Data Structures and Algorithms (DSA), SQL.**
 
-- How to reach me **tarunsirohi22@gmail.com**
+- You can reach me **tarunsirohi22@gmail.com**
 
-- Fun fact **I have a Black Belt in Debugging.**
+- Fun fact, **I have a Black Belt in Debugging.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
