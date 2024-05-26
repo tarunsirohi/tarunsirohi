@@ -2,7 +2,8 @@
 <h1 align="center">Hey, I'm Tarun Sirohi</h1>
 <h3 align="center">A Passionate Full Stack Web Developer, working with SpringBoot and AI/ML Aficionado from India.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsirohi&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsirohi" /> </p>
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsirohi&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsirohi" /> </p>-->
+<br>
 
 - I’m currently learning **Spring Boot.**
 
