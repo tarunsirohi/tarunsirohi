@@ -4,9 +4,9 @@
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsirohi&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsirohi" /> </p>-->
 
-- Ask me about **C, Java, Python, HTML, CSS, JavaScript, Data Structures and Algorithms (DSA), SQL.**
+- Ask me anything about **C, Java, Python, HTML, CSS, JavaScript, Data Structures and Algorithms (DSA) & SQL.**
 
-- I have hands-on experience applying in **full-stack development, API integrations, and project implementations.**
+- I have hands-on experience in **full-stack development, API integrations, and project implementations.**
 
 - You can reach me **tarunsirohi22@gmail.com**
 
