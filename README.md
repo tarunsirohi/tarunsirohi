@@ -1,12 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/58959408/232639433-cb0aea21-66f0-4508-a771-85e2089c5a87.gif)
 <h1 align="center">Hey, I'm Tarun Sirohi</h1>
-<h3 align="center">A Passionate Full Stack Web Developer, working with SpringBoot and AI/ML.</h3>
+<h3 align="center">A Passionate Full Stack Developer, working with SpringBoot and AI/ML.</h3>
 
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=tarunsirohi&label=Profile%20views&color=0e75b6&style=flat" alt="tarunsirohi" /> </p>-->
 
-- I’m currently learning **Spring Boot.**
-
 - Ask me about **C, Java, Python, HTML, CSS, JavaScript, Data Structures and Algorithms (DSA), SQL.**
+
+- I have hands-on experience applying in **full-stack development, API integrations, and project implementations.**
 
 - You can reach me **tarunsirohi22@gmail.com**
 
